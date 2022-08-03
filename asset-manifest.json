@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/labex/static/css/main.0e18fb20.css",
-    "main.js": "/labex/static/js/main.18d8391c.js",
+    "main.js": "/labex/static/js/main.6cf9e3bd.js",
     "static/media/back.png": "/labex/static/media/back.c30ec299e2ad06deab88.png",
     "static/media/back-mob.png": "/labex/static/media/back-mob.02cd9124373e9761d0b3.png",
     "index.html": "/labex/index.html",
     "main.0e18fb20.css.map": "/labex/static/css/main.0e18fb20.css.map",
-    "main.18d8391c.js.map": "/labex/static/js/main.18d8391c.js.map"
+    "main.6cf9e3bd.js.map": "/labex/static/js/main.6cf9e3bd.js.map"
   },
   "entrypoints": [
     "static/css/main.0e18fb20.css",
-    "static/js/main.18d8391c.js"
+    "static/js/main.6cf9e3bd.js"
   ]
 }
