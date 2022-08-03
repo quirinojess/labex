@@ -30,7 +30,7 @@ function Router() {
           </Route>
 
           <Route>
-            <ErrorPage />
+            <HomePage />
           </Route>
         </Switch>
       </BrowserRouter>
