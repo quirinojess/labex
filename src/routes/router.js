@@ -13,7 +13,7 @@ return <div>
 <Header/>
 <Switch>
 
-<Route exact path="/">
+<Route exact path="/labex">
 <HomePage/>
 </Route>
     
